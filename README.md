@@ -1,4 +1,4 @@
-# Hybrid_Active_Directory
+# Hybrid Active Directory
 Use the Cloudformation nested templates above to create the needed resources. Once everything is provisioned, go to running EC2 instances and copy the public IPv4 DNS for the JumpBox instance. Open Microsoft Remote Desktop and connect into that DNS. Once remote desktop is loaded up, this will be the "on-prem" environment. 
 ![Screenshot_1](https://user-images.githubusercontent.com/109190196/223593947-e20a01bb-1dd0-4b4b-9b03-35b482ff064e.jpg)
 
